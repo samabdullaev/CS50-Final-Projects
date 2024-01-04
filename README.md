@@ -2,10 +2,10 @@
 
 Welcome to my repository showcasing the final projects I developed for CS50 Computer Science courses.
 
-## Table of Contents
+## Completed Courses
 
-1. [CS50 Python](#cs50-python-final-project)
-2. [CS50 SQL](#cs50-sql-final-project)
+1. [CS50's Introduction to Programming with Python](#cs50-python-final-project)
+2. [CS50's Introduction to Databases with SQL](#cs50-sql-final-project)
 
 ## About
 
@@ -13,7 +13,7 @@ This repository contains the final projects I completed for CS50 Computer Scienc
 
 ## Projects
 
-### CS50 Python <a name="cs50-python-final-project"></a>
+1. ### CS50's Introduction to Programming with Python <a name="cs50-python-final-project"></a>
 
 **Project:** [Voice Assistant with Wikipedia](CS50%20Python/README.md)
 
@@ -21,9 +21,7 @@ This repository contains the final projects I completed for CS50 Computer Scienc
 
 **Video Overview:** [Watch my Python Project Presentation](https://youtu.be/VTpatxylt78)
 
-......
-
-### CS50 SQL <a name="cs50-sql-final-project"></a>
+2. ### CS50's Introduction to Databases with SQL <a name="cs50-sql-final-project"></a>
 
 **Project:** [Game Club Booking](CS50%20SQL/DESIGN.md)
 
