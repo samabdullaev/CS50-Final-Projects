@@ -9,7 +9,7 @@ Welcome to my repository showcasing the final projects I developed for CS50 Comp
 
 ## Projects
 
-1. ### CS50's Introduction to Programming with Python <a name="cs50-python-final-project"></a>
+1. ### <a name="cs50-python-final-project">CS50's Introduction to Programming with Python</a>
 
 **Project:** [Voice Assistant with Wikipedia](CS50%20Python/README.md)
 
@@ -17,7 +17,7 @@ Welcome to my repository showcasing the final projects I developed for CS50 Comp
 
 **Video Overview:** [Watch my Python Project Presentation](https://youtu.be/VTpatxylt78)
 
-2. ### CS50's Introduction to Databases with SQL <a name="cs50-sql-final-project"></a>
+2. ### <a name="cs50-sql-final-project">CS50's Introduction to Databases with SQL</a>
 
 **Project:** [Game Club Booking](CS50%20SQL/DESIGN.md)
 
