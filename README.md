@@ -7,10 +7,6 @@ Welcome to my repository showcasing the final projects I developed for CS50 Comp
 1. [CS50's Introduction to Programming with Python](#cs50-python-final-project)
 2. [CS50's Introduction to Databases with SQL](#cs50-sql-final-project)
 
-## About
-
-This repository contains the final projects I completed for CS50 Computer Science courses offered by Harvard University. Each course has its own dedicated folder with detailed README files for the respective projects.
-
 ## Projects
 
 1. ### CS50's Introduction to Programming with Python <a name="cs50-python-final-project"></a>
