@@ -31,4 +31,4 @@ Feel free to explore the individual project folders to learn more about each pro
 
 ## Acknowledgments
 
-I want to express my gratitude to Harvard University for offering these insightful [CS50 courses](https://www.edx.org/cs50) and providing a platform for hands-on learning and exploration.
+I want to express my gratitude to [Harvard University](https://www.edx.org/school/harvardx) for offering these insightful [CS50 courses](https://www.edx.org/cs50) and providing a platform for hands-on learning and exploration.
